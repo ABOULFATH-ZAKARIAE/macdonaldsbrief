@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "60244a1ca2c0d0438c98c56a"
+  },
+  "isValid": true,
+  "code": "C123",
+  "pourcentage": 20
+},{
+  "_id": {
+    "$oid": "60244a44a2c0d0438c98c56b"
+  },
+  "isValid": true,
+  "code": "F123",
+  "pourcentage": 20
+},{
+  "_id": {
+    "$oid": "60244a50a2c0d0438c98c56c"
+  },
+  "isValid": true,
+  "code": "CH123",
+  "pourcentage": 20
+},{
+  "_id": {
+    "$oid": "60244a65a2c0d0438c98c56d"
+  },
+  "isValid": true,
+  "code": "MD123",
+  "pourcentage": 20
+}]

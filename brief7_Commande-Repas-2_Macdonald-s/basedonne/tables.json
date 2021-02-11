@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "60244cde7c74fe635829efa5"
+  },
+  "numTable": 1,
+  "isOcuped": true
+},{
+  "_id": {
+    "$oid": "60244ce57c74fe635829efa6"
+  },
+  "numTable": 2,
+  "isOcuped": true
+},{
+  "_id": {
+    "$oid": "60244ce97c74fe635829efa7"
+  },
+  "numTable": 3,
+  "isOcuped": true
+},{
+  "_id": {
+    "$oid": "60244d087c74fe635829efa8"
+  },
+  "numTable": 4,
+  "isOcuped": true
+},{
+  "_id": {
+    "$oid": "60244d0b7c74fe635829efa9"
+  },
+  "numTable": 5,
+  "isOcuped": true
+},{
+  "_id": {
+    "$oid": "60244d0e7c74fe635829efaa"
+  },
+  "numTable": 6,
+  "isOcuped": true
+},{
+  "_id": {
+    "$oid": "60244d117c74fe635829efab"
+  },
+  "numTable": 7,
+  "isOcuped": true
+},{
+  "_id": {
+    "$oid": "60244d157c74fe635829efac"
+  },
+  "numTable": 8,
+  "isOcuped": true
+},{
+  "_id": {
+    "$oid": "60244d177c74fe635829efad"
+  },
+  "numTable": 9,
+  "isOcuped": true
+},{
+  "_id": {
+    "$oid": "60244d1b7c74fe635829efae"
+  },
+  "numTable": 10,
+  "isOcuped": false
+},{
+  "_id": {
+    "$oid": "60244d1e7c74fe635829efaf"
+  },
+  "numTable": 11,
+  "isOcuped": false
+},{
+  "_id": {
+    "$oid": "60244d217c74fe635829efb0"
+  },
+  "numTable": 12,
+  "isOcuped": false
+},{
+  "_id": {
+    "$oid": "60244d247c74fe635829efb1"
+  },
+  "numTable": 13,
+  "isOcuped": false
+},{
+  "_id": {
+    "$oid": "60244d267c74fe635829efb2"
+  },
+  "numTable": 14,
+  "isOcuped": false
+},{
+  "_id": {
+    "$oid": "60244d2a7c74fe635829efb3"
+  },
+  "numTable": 15,
+  "isOcuped": false
+},{
+  "_id": {
+    "$oid": "60244d2d7c74fe635829efb4"
+  },
+  "numTable": 16,
+  "isOcuped": false
+},{
+  "_id": {
+    "$oid": "60244d307c74fe635829efb5"
+  },
+  "numTable": 17,
+  "isOcuped": false
+},{
+  "_id": {
+    "$oid": "60244d337c74fe635829efb6"
+  },
+  "numTable": 18,
+  "isOcuped": false
+},{
+  "_id": {
+    "$oid": "60244d357c74fe635829efb7"
+  },
+  "numTable": 19,
+  "isOcuped": false
+},{
+  "_id": {
+    "$oid": "60244d3a7c74fe635829efb8"
+  },
+  "numTable": 20,
+  "isOcuped": false
+}]
